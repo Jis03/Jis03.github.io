@@ -1,5 +1,3 @@
-# JIS_P
-
 ## TIPPAWAN NGOBKRATOK 6530200193
 
 [Description](description.md)
