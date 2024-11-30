@@ -12,10 +12,6 @@
 [Facebook](https://www.facebook.com/tippawan.ngobkratok)
 
 ---
-
-  
-
----
 ### MORE
 * [Description](description.md)
 * [Jab](https://Jabjibi.github.io)
