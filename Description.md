@@ -17,6 +17,7 @@ ICMP Echo Request sent to the network broadcast address of a spoofed victim caus
    2.1 kaspersky
    <br>
     A Smurf attack is a form of a distributed denial of service (DDoS) attack that renders computer networks inoperable. The Smurf program accomplishes this by exploiting vulnerabilities of the Internet Protocol (IP) and Internet Control Message Protocols (ICMP).
+    
 [kaspersky](https://www.kaspersky.com/resource-center/definitions/what-is-a-smurf-attack)
     <br>
     <br>
