@@ -26,7 +26,7 @@ ICMP Echo Request sent to the network broadcast address of a spoofed victim caus
     2.3 Gemini
     <br>
      การโจมตี Smurf เป็นรูปแบบหนึ่งของการโจมตีแบบปฏิเสธการให้บริการแบบกระจาย (DDoS: Distributed Denial of Service) ที่ทำให้เครือข่ายคอมพิวเตอร์ไม่สามารถใช้งานได้ โปรแกรม Smurf ทำเช่นนี้โดยการใช้ประโยชน์จากช่องโหว่ของโปรโตคอลอินเทอร์เน็ต (IP) และโปรโตคอลข้อความควบคุมอินเทอร์เน็ต (ICMP)
-    <hr>
+     <hr>
 <h3>My self</h3>
  Smurf เป็นการโจมตีเครือข่ายโดยใช้ ICMP จัดการเครือข่ายทำให้เครือข่ายล่มหรือทำงานผิดปกติ
  <hr>
