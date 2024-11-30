@@ -9,6 +9,9 @@
 [Instagram](https://www.instagram.com/jis_p03)
 <br>
 [Facebook](https://www.facebook.com/tippawan.ngobkratok)
+<br>
+Mail : tippawan.ng@ku.th
+Teams : tippawan.ng@live.ku.th
 
 ---
 
