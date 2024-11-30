@@ -1,4 +1,4 @@
-## JIS_P
+## 👋 HI I'M JIS_P
 ![Profile](profile/Img_profile.jpg)
 * TIPPAWAN NGOBKRATOK
 * 6530200193
@@ -12,13 +12,13 @@
 
 ---
 
-### MORE
+### MORE 🔎
 
 ---
 
-#### WORK
+#### WORK 📚
 * [Description](description.md)
 
-#### FRIEND
+#### FRIEND 🤝
 * [Jab](https://Jabjibi.github.io)
 
