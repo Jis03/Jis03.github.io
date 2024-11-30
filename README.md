@@ -7,10 +7,14 @@
 * CONTACT
 <br>
 [Instagram](https://www.instagram.com/jis_p03)
+<br>
 [Facebook](https://www.facebook.com/tippawan.ngobkratok)
 
 ---
 ### MORE
+#### WORK
 * [Description](description.md)
+
+#### FRIEND
 * [Jab](https://Jabjibi.github.io)
 
