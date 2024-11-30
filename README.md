@@ -20,5 +20,5 @@
 * [Description](description.md)
 
 #### FRIEND 🤝
-* [Jab](https://Jabjibi.github.io)
+* [Jabjibi](https://Jabjibi.github.io)
 
