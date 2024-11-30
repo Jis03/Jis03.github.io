@@ -8,7 +8,7 @@
 * CONTACT : [Instagram](https://www.instagram.com/jis_p03)
 ---
 ### MORE
-[Description](description.md)
+* [Description](description.md)
 <br>
-[Jab](https://Jabjibi.github.io)
+* [Jab](https://Jabjibi.github.io)
 
