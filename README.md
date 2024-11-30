@@ -6,17 +6,13 @@
 * BACHELOR OF SCIENCE PROGRAM IN COMPUTER SCIENCE
 * CONTACT
 
+  [Instagram](https://www.instagram.com/jis_p03)
 
-[Instagram](https://www.instagram.com/jis_p03)
+  [Facebook](https://www.facebook.com/tippawan.ngobkratok)
 
+  Mail : tippawan.ng@ku.th
 
-[Facebook](https://www.facebook.com/tippawan.ngobkratok)
-
-
-Mail : tippawan.ng@ku.th
-
-
-Teams : tippawan.ng@live.ku.th
+  Teams : tippawan.ng@live.ku.th
 
 ---
 
