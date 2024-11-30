@@ -26,5 +26,5 @@
 #### FRIEND 🤝
 * [Jabjibi](https://Jabjibi.github.io)
 
-![gif](https://media.tenor.com/EHzKl_vkZS8AAAPo/saleh-jumping-saleh-the-cat.mp4)
+![gif](https://media1.tenor.com/m/EHzKl_vkZS8AAAAC/saleh-jumping-saleh-the-cat.gif)
 
