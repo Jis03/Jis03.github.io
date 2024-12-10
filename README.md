@@ -21,7 +21,7 @@
 ---
 
 #### WORK 📚
-* [Description](description.md)
+* [Smurf](description.md)
 
 #### FRIEND 🤝
 * [Jabjibi](https://Jabjibi.github.io)
