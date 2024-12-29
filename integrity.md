@@ -7,6 +7,7 @@
   
 ### Source
 * [www.montecarlodata.com](https://www.montecarlodata.com/blog-6-data-quality-dimensions-examples/)
+  
 ---
 
 ### Meaning by ChatGPT
