@@ -5,7 +5,7 @@
 ### Definition
 * refers to the accuracy and consistency of data over its lifecycle. When data has integrity, it means it wasn’t altered during storage, retrieval, or processing without authorization. It’s like making sure a letter gets from point A to point B without any of its content being changed.
   
-### Source
+### Source of definition
 * [www.montecarlodata.com](https://www.montecarlodata.com/blog-6-data-quality-dimensions-examples/)
   
 ---
