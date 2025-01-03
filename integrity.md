@@ -4,6 +4,7 @@
 
 ### Definition
 * refers to the accuracy and consistency of data over its lifecycle. When data has integrity, it means it wasn’t altered during storage, retrieval, or processing without authorization. It’s like making sure a letter gets from point A to point B without any of its content being changed.
+
 * หมายถึง ความถูกต้องและความสอดคล้องของข้อมูลตลอดวงจรชีวิตของมัน เมื่อข้อมูลมีความสมบูรณ์ หมายความว่าข้อมูลไม่ได้ถูกแก้ไขระหว่างการจัดเก็บ การดึงข้อมูล หรือการประมวลผลโดยไม่ได้รับอนุญาต เปรียบเสมือนการทำให้แน่ใจว่าจดหมายเดินทางจากจุด A ไปยังจุด B โดยไม่มีการเปลี่ยนแปลงเนื้อหาใดๆ ระหว่างทาง
   
 ### Source of definition
