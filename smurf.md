@@ -44,3 +44,8 @@ ICMP Echo Request sent to the network broadcast address of a spoofed victim caus
 
 ### Simple Daily life
   สายโทรศัพท์ที่ถูกโทรเข้าพร้อมกัน
+
+---
+
+#### FRIEND 
+* [Description of Smurf from Jabjibi](https://jabjibi.github.io/smurf.html)
