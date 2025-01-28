@@ -1,5 +1,5 @@
 # Security Control
-![Image](img/Image.png)
+![Image](image/ex.jpg)
 
 ---
 
@@ -11,3 +11,8 @@
 * Technical Security Control
 #### Control Functions
 * Preventive (รูปแบบการป้องกันเหตุการณ์)
+
+---
+
+#### เหตุผลที่การตั้งรหัสผ่านโทรศัพท์เป็น Security control แบบ Technical Security Control และ Control Functions เป็นแบบ Preventive
+> เนื่องจาก
