@@ -5,7 +5,7 @@
 
 #### Examples of security control in everyday life
 * การตั้งรหัสผ่านโทรศัพท์
-  
+
 #### Location
 * My telephone
   
