@@ -1,4 +1,8 @@
 # Security Control
+![Image](img/Image.png)
+
+---
+
 #### Examples of security control in everyday life
 * การตั้งรหัสผ่านโทรศัพท์
 #### Location
@@ -7,6 +11,3 @@
 * Technical Security Control
 #### Control Functions
 * Preventive (รูปแบบการป้องกันเหตุการณ์)
-  
----
-
