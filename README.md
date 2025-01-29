@@ -25,6 +25,7 @@
 * [e_card](ecard.md)
 * [Integrity](integrity.md)
 * [Security-control](security-control.md)
+* [BoardGame](boardgame.md)
 
 #### FRIEND 🤝
 * [Jabjibi](https://Jabjibi.github.io)
