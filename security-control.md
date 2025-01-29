@@ -4,19 +4,19 @@
 ---
 
 #### Examples of security control in everyday life
-* การตั้งรหัสผ่านโทรศัพท์
+* การตั้งค่าความเป็นส่วนตัวในแอปพลิเคชัน Instagram
 
 #### Location
 * My telephone
   
 #### Type of Security control
-* Technical Security Control
+* Administrative Security Control
   
 #### Control Functions
 * Preventive (รูปแบบการป้องกันเหตุการณ์)
 
 ---
 
-#### เหตุผลที่การตั้งรหัสผ่านโทรศัพท์เป็น Security control แบบ Technical Security Control และ Control Functions เป็นแบบ Preventive
-* การที่การตั้งรหัสผ่านโทรศัพท์เป็นแบบ Technical Security Control เนื่องจากจะต้องใช้เทคโนโลยีเป็นเครื่องมือในการควบคุมและรักษาความปลอดภัย
-* ที่เป็นแบบ Preventive เพราะการตั้งรหัสผ่านโทรศัพท์เป็นการสร้างมาเพื่อป้องกันการเข้าถึงอุปกรณ์โดยไม่ได้รับอนุญาต อีกทั้งเพื่อเป็นการยืนยันตัวตนของผู้ใช้ในการเข้าถึงข้อมูลในโทรศัพท์
+#### เหตุผลที่การตั้งรหัสผ่านโทรศัพท์เป็น Security control แบบ Administrative Security Control และ Control Functions เป็นแบบ Preventive
+* การที่การตั้งรหัสผ่านโทรศัพท์เป็นแบบ Administrative Security Control เนื่องจากเป็นแนวทางปฏิบัติและนโยบายที่ช่วยควบคุมพฤติกรรมของผู้ใช้
+* ที่เป็นแบบ Preventive เพราะการตั้งค่าความเป็นส่วนตัวในแอปพลิเคชัน Instagram เป็นการตั้งเพื่อป้องกันการเข้าถึงข้อมูลส่วนตัวโดยไม่ได้รับอนุญาต
