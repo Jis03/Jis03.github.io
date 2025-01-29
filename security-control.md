@@ -1,5 +1,5 @@
 # Security Control
-![Image](image/Exp.jpg)
+![Image](image/ig.jpg)
 
 ---
 
