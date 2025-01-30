@@ -15,3 +15,24 @@
 ---
 
 #### Picture
+![group](image/group.JPG)
+![board](image/board.jpg)
+
+---
+
+#### Video
+[Link] : https://youtu.be/5kpjxZVgTWc
+
+---
+
+#### หมายเหตุ
+> ทางกลุ่ม God menu ได้ขออนุญาตผู้เกี่ยวข้องเพื่อขอบันทึกภาพและวิดีโอเป็นที่เรียบร้อยแล้ว
+
+---
+
+#### สมาชิกกลุ่ม
+* [Kongsiri Panchuen]
+* [Tippawan Ngobkratok]()
+* [Tanapon Yurawan]
+* [Watcharaphon Namaung]
+* [Preeyada Kasetpibaln]
