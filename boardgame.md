@@ -1,5 +1,6 @@
-# Securing the Human in information System Security
 ## Cyber Board Game (By National Cyber Security Agency : NCSA) Activity with God menu
+---
+### Securing the Human in information System Security
 
 ---
 
@@ -21,7 +22,7 @@
 ---
 
 #### Video
-[Link] : https://youtu.be/5kpjxZVgTWc
+[Link](https://youtu.be/5kpjxZVgTWc)
 
 ---
 
@@ -32,7 +33,7 @@
 
 #### สมาชิกกลุ่ม
 * [Kongsiri Panchuen]
-* [Tippawan Ngobkratok]()
+* [Tippawan Ngobkratok](https://jis03.github.io/boardgame)
 * [Tanapon Yurawan]
 * [Watcharaphon Namaung]
 * [Preeyada Kasetpibaln]
