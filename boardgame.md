@@ -16,7 +16,7 @@
 ---
 
 #### Picture
-![group](image/group.JPG)
+![group](image/groupphoto.JPG)
 
 ---
 
