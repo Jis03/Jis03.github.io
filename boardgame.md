@@ -22,7 +22,8 @@
 ---
 
 #### Video
-[Link](https://youtu.be/5kpjxZVgTWc)
+![cover](image/group.JPG)
+[cover](https://youtu.be/5kpjxZVgTWc)
 
 ---
 
