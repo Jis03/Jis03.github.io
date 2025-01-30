@@ -1,10 +1,11 @@
+𓆉𓆝 𓆟 𓆞 𓆝 𓆟𓇼𓆉𓆝 𓆟 𓆞 𓆝 𓆟𓇼𓆉𓆝 𓆟 𓆞 𓆝 𓆟𓇼 ⋆.˚ 𓆝⋆.˚ 𓇼𓆉𓆝 𓆟 𓆞 𓆝 𓆟𓇼𓆉𓆝 𓆟 𓆞 𓆝 𓆟𓇼𓆉𓆝 𓆟 𓆞 𓆝 𓆟𓇼
 ## Cyber Board Game (By National Cyber Security Agency : NCSA) Activity with God menu
 ---
 ### Securing the Human in information System Security
 
 ---
 
-### Activity details
+### Activity details ⊹ ࣪ ﹏﹏𓂁﹏⊹ ࣪ ˖
 > เป็นการทำกิจกรรมของกลุ่มนิสิตคณะวิทยาศาสตร์ สาขาวิทยาการคอมพิวเตอร์ภายใต้ชื่อกลุ่ม "God menu" เพื่อต้องการให้ผู้คนตระหนักรู้ในเรื่องความปลอดภัยของไซเบอร์
 > โดยได้นำ cyber board game ที่จัดทำโดย NCSA มาเป็นกิจกรรมที่ทำร่วมกับกลุ่มเป้าหมายในวันที่ 29 มกราคม 2568 เวลา 16:30 ณ ตึก 17 ศูนย์การเรียนรวมของมหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา
 > ซึ่งมีผู้เข้าร่วมในกิจกรรมครั้งนี้ทั้งสิ้น 7 คน
@@ -15,7 +16,7 @@
 
 ---
 
-#### Picture
+#### Picture ˙✧˖°📷 ༘ ⋆｡˚
 ![group](image/groupphoto.JPG)
 
 ---
@@ -33,7 +34,7 @@
 
 ---
 
-#### Video
+#### Video ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 2.07
 ![Link](https://youtu.be/5kpjxZVgTWc)
 
 ---
@@ -43,7 +44,7 @@
 
 ---
 
-#### สมาชิกกลุ่ม
+#### สมาชิกกลุ่ม ( ๑ ˃̵ᴗ˂̵)و ♡
 * [Kongsiri Panchuen]
 * [Tippawan Ngobkratok](https://jis03.github.io/boardgame)
 * [Tanapon Yurawan]
