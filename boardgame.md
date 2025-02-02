@@ -49,5 +49,5 @@
 * [Kongsiri Panchuen]
 * [Tippawan Ngobkratok](https://jis03.github.io/boardgame)
 * [Tanapon Yurawan]
-* [Watcharaphon Namaung]
+* [Watcharaphon Namaung](https://ter130147.github.io/boardgame)
 * [Preeyada Kasetpibaln]
