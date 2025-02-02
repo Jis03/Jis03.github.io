@@ -35,7 +35,7 @@
 
 ---
 
-#### Video ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 2.07
+#### Video ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 2.06
 [![Video](image/groupphoto.JPG)](https://youtu.be/5kpjxZVgTWc)
 
 ---
