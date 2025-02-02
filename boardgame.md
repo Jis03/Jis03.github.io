@@ -48,6 +48,6 @@
 #### สมาชิกกลุ่ม ( ๑ ˃̵ᴗ˂̵)و ♡
 * [Kongsiri Panchuen]
 * [Tippawan Ngobkratok](https://jis03.github.io/boardgame)
-* [Tanapon Yurawan]
+* [Tanapon Yurawan](https://jabjibi.github.io/boardgame)
 * [Watcharaphon Namaung](https://ter130147.github.io/boardgame)
 * [Preeyada Kasetpibaln]
