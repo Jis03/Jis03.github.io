@@ -36,7 +36,7 @@
 ---
 
 #### Video ▶︎ •၊၊||၊|။||||။‌‌‌‌‌၊|• 2.07
-![Link](https://youtu.be/5kpjxZVgTWc)
+[![Video Thumbnail](image/groupphoto.JPG)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/5kpjxZVgTWc))
 
 ---
 
