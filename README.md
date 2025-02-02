@@ -25,6 +25,7 @@
 * [Integrity](integrity.md)
 * [Security-control](security-control.md)
 * [BoardGame](boardgame.md)
+* [PAO-Elections](pao-elections.md)
 
 #### FRIEND 🤝
 * [Jab](https://Jabjibi.github.io)
