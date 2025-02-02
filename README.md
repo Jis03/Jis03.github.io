@@ -28,7 +28,9 @@
 * [BoardGame](boardgame.md)
 
 #### FRIEND 🤝
-* [Jabjibi](https://Jabjibi.github.io)
+* [Jab](https://Jabjibi.github.io)
+* [Pluem](https://kongsiri07.github.io)
+* [Ter](https://ter130147.github.io)
 
 ![gif](https://media1.tenor.com/m/EHzKl_vkZS8AAAAC/saleh-jumping-saleh-the-cat.gif)
 
