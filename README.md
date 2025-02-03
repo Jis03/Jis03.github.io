@@ -28,13 +28,14 @@
 * [e_card](ecard.md)
 * [Integrity](integrity.md)
 * [Security-control](security-control.md)
-* [BoardGame](boardgame.md)
+* [Boardgame](boardgame.md)
 * [PAO-Elections](pao-elections.md)
 
 #### FRIEND 🤝
 * [Jab](https://Jabjibi.github.io)
 * [Pluem](https://kongsiri07.github.io)
 * [Ter](https://ter130147.github.io)
+* [Pim](https://preeyadak.github.io)
 
 ![gif](https://media1.tenor.com/m/EHzKl_vkZS8AAAAC/saleh-jumping-saleh-the-cat.gif)
 
