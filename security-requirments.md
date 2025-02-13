@@ -14,4 +14,4 @@
 🔗 **ทดสอบความปลอดภัยของรหัสผ่านของคุณที่นี่** 👉 [🔍 Password Strength Tool](https://www.passwordmonster.com/) 🛠️  
 
 ### 📂 **Member**
-  - [Tanapon Yurawan](https://jabjibi.github.io/security-requirments.md)
+  - [Tanapon Yurawan](https://jabjibi.github.io/security-requirments)
