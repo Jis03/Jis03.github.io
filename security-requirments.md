@@ -11,7 +11,7 @@
 
 ### 👤 **My Self**  
 - 🔒**Password Strength Meter** เป็นฟีเจอร์ที่ช่วยผู้ใช้ตั้งรหัสผ่านที่แข็งแกร่งขึ้น หากเว็บไซต์ที่คุณใช้มีฟีเจอร์นี้ คุณจะเห็น**แถบวัดความปลอดภัย**หรือ**คำแนะนำขณะพิมพ์รหัสผ่าน** ซึ่งช่วยลดความเสี่ยงจากการถูกแฮ็กบัญชีได้
-🔗 **ทดสอบความปลอดภัยของรหัสผ่านของคุณที่นี่** 👉 [🔍 Password Strength Tool](https://www.passwordmonster.com/) 🛠️  
+- 🔗 **ทดสอบความปลอดภัยของรหัสผ่านของคุณที่นี่** 👉 [🔍 Password Strength Tool](https://www.passwordmonster.com/) 🛠️  
 
 ### 📂 **Member**
   - [Tanapon Yurawan](https://jabjibi.github.io/security-requirments)
