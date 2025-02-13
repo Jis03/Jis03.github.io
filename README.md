@@ -30,6 +30,7 @@
 * [Security-control](security-control.md)
 * [Boardgame](boardgame.md)
 * [PAO-Elections](pao-elections.md)
+* [Security-requirments.md](security-requirments.md)
 
 #### FRIEND 🤝
 * [Jab](https://Jabjibi.github.io)
