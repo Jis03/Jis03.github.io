@@ -1,4 +1,4 @@
-## 🔐 V8.3 Sensitive Private Data 
+## 🔐 8.1.6 Data Protection
 
 ### 📌 **Description**  
 - ✅ Verify that backups are stored securely to prevent data from being stolen or corrupted. 
@@ -19,4 +19,4 @@
 **🔐 สำคัญคือการทำให้ Backup ปลอดภัยและสามารถกู้คืนได้เมื่อจำเป็น**
   
 ### 📂 **Member**
-  - [Tippawan Ngobkratok](https://jis03.github.io/security-requirments)
+  - [Tanpon Yurawan](https://jabjibi.github.io/security-requirments)
